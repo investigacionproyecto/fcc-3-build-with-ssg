@@ -1,0 +1,16 @@
+{
+  "name": "jamstack3",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
